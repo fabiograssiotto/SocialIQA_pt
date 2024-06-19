@@ -13,3 +13,5 @@ read_dataset_en.ipynb       - Initial reading of the source language in JSONL fo
 splitter_training_set.ipynb - Splitter for the training set to handle OpenAI rate limits for the GEMBA evaluation.  
 merger_training_set.ipynb   - Merger for the training set post-GEMBA evaluation.  
 metrics.ipynb               - Plotter for translation metrics.  
+
+The resulting PT dataset is available at https://huggingface.co/datasets/fabiogr/social_i_qa_pt
